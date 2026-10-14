@@ -1,0 +1,6 @@
+# Ignore local generated Flutter project files
+flutter_application_1/
+.dart_tool/
+.idea/
+*.iml
+.DS_Store
